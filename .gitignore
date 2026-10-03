@@ -9,3 +9,4 @@ data/processed/
 *.ckpt
 .venv/
 scratch/
+*.zip
